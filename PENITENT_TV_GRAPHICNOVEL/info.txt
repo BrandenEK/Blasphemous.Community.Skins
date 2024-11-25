@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_GRAPHICNOVEL",
+  "name": "Penance Writ In Ink",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

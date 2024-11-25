@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_HOLLOWKNIGHT",
+  "name": "Void Given Guilt",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

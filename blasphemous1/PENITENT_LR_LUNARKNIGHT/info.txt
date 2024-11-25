@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LR_LUNARKNIGHT",
+  "name": "Lunar Knight",
+  "author": "Lunarosel",
+  "version": "1.0.0"
+}

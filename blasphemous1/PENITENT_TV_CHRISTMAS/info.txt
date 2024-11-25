@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_CHRISTMAS",
+  "name": "Brother Of The Silent Night",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

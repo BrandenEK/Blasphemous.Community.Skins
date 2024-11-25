@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_TV_OROSPINA",
+  "name": "Embroiderer Of Golden Guilt",
+  "author": "ObsessiveBadguy/TGK",
+  "version": "1.0.0"
+}
