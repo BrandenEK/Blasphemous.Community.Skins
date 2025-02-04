@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_IR_VOS",
+  "name": "Vestige of Suffering",
+  "author": "DRKDRG",
+  "version": "1.0.0"
+}
