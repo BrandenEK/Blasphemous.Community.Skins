@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_WATCHMAN_SALT",
+  "name": "Watchman of the Salt",
+  "author": "necros1s",
+  "version": "1.0.1"
+}

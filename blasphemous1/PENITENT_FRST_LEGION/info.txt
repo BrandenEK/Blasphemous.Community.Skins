@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_FRST_LEGION",
+  "name": "Frosted Legionaire",
+  "author": "necros1s",
+  "version": "1.0.0"
+}
