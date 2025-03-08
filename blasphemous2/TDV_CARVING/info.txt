@@ -1,0 +1,6 @@
+{
+  "id": "TDV_CARVING",
+  "name": "Exalted Visage Carved By The Artisan",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}
