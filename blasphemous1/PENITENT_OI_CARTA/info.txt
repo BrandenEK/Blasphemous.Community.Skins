@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_OI_CARTA",
+  "name": "Cartas desvaída y negruzca",
+  "author": "Oisín",
+  "version": "1.0.0"
+}
