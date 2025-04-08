@@ -1,6 +1,0 @@
-{
-  "id": "TDV_ROBO",
-  "name": "Robot of False Guilt",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}
