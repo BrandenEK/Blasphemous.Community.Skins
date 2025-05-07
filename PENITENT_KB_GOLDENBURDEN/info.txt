@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_KB_GOLDENBURDEN",
+  "name": "Golden Burden 2.0",
+  "author": "KBtheKillerXIV",
+  "version": "1.0.0"
+}
