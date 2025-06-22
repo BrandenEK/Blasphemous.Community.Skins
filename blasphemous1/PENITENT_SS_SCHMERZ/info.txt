@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SS_SCHMERZ",
+  "name": "Seele in Schmerz",
+  "author": "__tobe__",
+  "version": "1.0.0"
+}
