@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_DT_KRISENITENT",
+  "name": "Blaspherune Krisenitente",
+  "author": "adrianfr06",
+  "version": "1.0.0"
+}
