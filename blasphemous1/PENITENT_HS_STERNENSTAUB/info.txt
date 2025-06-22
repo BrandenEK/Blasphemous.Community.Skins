@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_HS_STERNENSTAUB",
+  "name": "Heiler aus Sternenstaub",
+  "author": "__tobe__",
+  "version": "1.0.0"
+}
