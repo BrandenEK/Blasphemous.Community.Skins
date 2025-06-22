@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_ET_TRÄUMER",
+  "name": "Einsiedler der Träumer",
+  "author": "__tobe__",
+  "version": "1.0.0"
+}
