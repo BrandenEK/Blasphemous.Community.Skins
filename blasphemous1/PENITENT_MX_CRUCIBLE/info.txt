@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_MX_CRUCIBLE",
+  "name": "Penitent of the Crucible",
+  "author": "Mesa",
+  "version": "1.0.0"
+}
