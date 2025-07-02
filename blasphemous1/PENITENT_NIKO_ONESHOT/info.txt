@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_NIKO_ONESHOT",
+  "name": "Niko Oneshot",
+  "author": "adrianfr06",
+  "version": "1.0.0"
+}
