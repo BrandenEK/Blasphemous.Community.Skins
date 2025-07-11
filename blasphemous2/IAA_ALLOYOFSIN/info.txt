@@ -1,0 +1,6 @@
+{
+  "id": "IAA_ALLOYOFSIN",
+  "name": "Alloy of Sin",
+  "author": "Void Atomica",
+  "version": "1.0.0"
+}

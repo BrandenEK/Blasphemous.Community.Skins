@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_BL_LEERENHIMMELS",
+  "name": "Büßer des Leerenhimmels",
+  "author": "__tobe__",
+  "version": "1.0.0"
+}
