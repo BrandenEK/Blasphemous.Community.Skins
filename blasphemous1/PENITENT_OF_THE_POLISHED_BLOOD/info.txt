@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_OF_THE_POLISHED_BLOOD",
+  "name": "Penance of the polished blood",
+  "author": "Arere_800",
+  "version": "1.0"
+}

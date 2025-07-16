@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_OF_RISING_SUN",
+  "name": "Penance of rising un",
+  "author": "Arere_800",
+  "version": "1.0.0"
+}
