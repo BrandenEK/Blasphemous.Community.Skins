@@ -2,5 +2,5 @@
   "id": "PENITENT_A8_POLISHEDBLOOD",
   "name": "Penance of the polished blood",
   "author": "Arere_800",
-  "version": "1.0"
+  "version": "1.0.0"
 }
