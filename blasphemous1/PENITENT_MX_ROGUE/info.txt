@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_MX_ROGUE",
+  "name": "Penitent Rogue",
+  "author": "Mesa",
+  "version": "1.0.0"
+}

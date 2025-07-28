@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_MX_RECTOR",
+  "name": "Crimson Rector",
+  "author": "Mesa",
+  "version": "1.0.1"
+}
