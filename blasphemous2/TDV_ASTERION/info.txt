@@ -1,6 +1,7 @@
 {
   "id": "TDV_ASTERION",
-  "name": "Rogue Disciple of the Master ",
+  "name": "Rogue Disciple of the Master",
+
   "author": "Obsessive Badguy",
   "version": "1.0.0"
 }
