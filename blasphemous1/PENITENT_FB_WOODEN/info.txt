@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_FB_WOODEN",
+  "name": "Carved Icon",
+  "author": "Foobs",
+  "version": "1.0"
+}

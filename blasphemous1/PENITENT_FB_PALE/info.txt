@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_FB_PALE",
+  "name": "Pale Rider",
+  "author": "Foobs",
+  "version": "1.0"
+}
