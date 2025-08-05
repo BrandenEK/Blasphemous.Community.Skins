@@ -1,0 +1,6 @@
+{
+  "id": "AR8_ARCHAICEXALTATION",
+  "name": "EXALTACION ARCAICA ",
+  "author": "Arere_800/Obsessivebadguy",
+  "version": "1.0.0"
+}
