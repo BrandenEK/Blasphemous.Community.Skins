@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_FB_PROCESSION",
+  "name": "Twisted Procession",
+  "author": "Foobs",
+  "version": "1.0"
+}
