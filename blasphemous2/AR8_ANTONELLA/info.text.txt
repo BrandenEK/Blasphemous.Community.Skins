@@ -1,6 +1,0 @@
-{
-  "id": "AR8_ANTONELLA",
-  "name": "PILGRAME OF THE MARTYR ANTONELLA",
-  "author": "Arere_800/Liam",
-  "version": "1.0.0"
-}
