@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LG_HELL",
+  "name": "The fallen Angel",
+  "author": "Lucifer",
+  "version": "1.0.0"
+}

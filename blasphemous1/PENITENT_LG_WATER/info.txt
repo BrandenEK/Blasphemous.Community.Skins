@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LG_WATER",
+  "name": "Odón de la Hermandad de la sal",
+  "author": "Lucifer",
+  "version": "1.0.0"
+}
