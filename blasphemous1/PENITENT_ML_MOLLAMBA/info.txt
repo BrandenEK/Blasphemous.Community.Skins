@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_ML_MOLLAMBA",
+  "name": "Shadow Isle Penance",
+  "author": "MoLlamba",
+  "version": "1.0.0"
+}
