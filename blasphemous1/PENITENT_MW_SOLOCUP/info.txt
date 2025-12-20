@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_MW_SOLOCUP",
+  "name": "90's Solo Cup",
+  "author": "mimsywhimsy1991",
+  "version": "1.0.0"
+}
