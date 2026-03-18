@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_MC_LINK",
+  "name": "Héroe de la leyenda",
+  "author": "Jupiterglaivedoré50",
+  "version": "1.0.0"
+}
