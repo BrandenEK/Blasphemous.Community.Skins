@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SH_CRISNTA",
+  "name": "Crisanta's Chosen",
+  "author": "SkylerHope",
+  "version": "1.0.0"
+}
