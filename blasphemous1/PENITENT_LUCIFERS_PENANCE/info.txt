@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_LUCIFERS_PENANCE",
-  "name": "Lucifer's Penance",
-  "author": "SkylerHope",
-  "version": "1.0.0"
-}
