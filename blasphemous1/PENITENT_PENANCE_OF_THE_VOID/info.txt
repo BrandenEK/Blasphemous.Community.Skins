@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_PENANCE_OF_THE_VOID",
-  "name": "Penance Of The Void",
-  "author": "SkylerHope",
-  "version": "1.0.0"
-}
