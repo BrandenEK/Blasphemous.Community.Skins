@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_LD_HUNTSMAN",
+  "name": "Midnight Huntsman",
+  "author": "Lorddelta2933",
+  "version": "1.0.0"
+}
