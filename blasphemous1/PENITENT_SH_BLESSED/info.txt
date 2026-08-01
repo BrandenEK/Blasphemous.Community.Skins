@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SH_BLESSED",
+  "name": "Blessed Pilgrim",
+  "author": "SkylerHope",
+  "version": "1.0.0"
+}
