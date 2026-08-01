@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SH_PROTECTOR",
+  "name": "Protector Of Our Lady",
+  "author": "SkylerHope",
+  "version": "1.0.0"
+}
