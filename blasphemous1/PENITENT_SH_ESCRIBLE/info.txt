@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SH_ESCRIBLE",
+  "name": "Escribar's Disciple",
+  "author": "SkylerHope",
+  "version": "1.0.0"
+}
