@@ -1,6 +1,0 @@
-{
-  "id": "TDV_WINE",
-  "name": "Communion Wine ",
-  "author": "Obsessive Badguy",
-  "version": "1.0.0"
-}

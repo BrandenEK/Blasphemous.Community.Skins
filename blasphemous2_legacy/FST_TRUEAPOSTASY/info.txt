@@ -1,0 +1,6 @@
+{
+  "id": "FST_TRUEAPOSTASY",
+  "name": "True Apostasy",
+  "author": "Faust Baudelaire",
+  "version": "1.0.0"
+}

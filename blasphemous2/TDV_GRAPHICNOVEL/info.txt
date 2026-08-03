@@ -1,6 +1,0 @@
-{
-  "id": "TDV_GRAPHICNOVEL",
-  "name": "Penance Written in ink",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}

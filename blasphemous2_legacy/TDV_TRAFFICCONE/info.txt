@@ -1,0 +1,6 @@
+{
+  "id": "TDV_TRAFFICCONE",
+  "name": "Cono De Penitent",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "TDV_GIRLPOP",
+  "name": "Penance Of Girlpop",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

@@ -1,6 +1,0 @@
-{
-  "id": "AR8_ARCHAICEXALTATION",
-  "name": "EXALTACION ARCAICA ",
-  "author": "Arere_800/Pham",
-  "version": "1.0.0"
-}

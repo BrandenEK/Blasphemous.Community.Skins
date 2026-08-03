@@ -1,6 +1,0 @@
-{
-  "id": "TDV_LINK",
-  "name": "Hero of Guilt",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}
