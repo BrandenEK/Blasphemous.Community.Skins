@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_SH_SPIRIT",
+  "name": "Wrathful Spirit",
+  "author": "SkylerHope",
+  "version": "1.0.0"
+}
