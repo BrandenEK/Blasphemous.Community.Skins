@@ -1,0 +1,6 @@
+{
+  "id": "TDV_OMEGA",
+  "name": "Guilt Of Destruction",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

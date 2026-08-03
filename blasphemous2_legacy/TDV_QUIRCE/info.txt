@@ -1,0 +1,6 @@
+{
+  "id": "TDV_QUIRCE",
+  "name": "Penance Returned By The Flames",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

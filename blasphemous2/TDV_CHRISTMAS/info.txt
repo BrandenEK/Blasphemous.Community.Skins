@@ -1,6 +1,0 @@
-{
-  "id": "TDV_CHRISTMAS",
-  "name": "Brotherhood of the silent night",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}

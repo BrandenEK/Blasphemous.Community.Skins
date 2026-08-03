@@ -1,0 +1,6 @@
+{
+  "id": "TDV_MOONLIGHT",
+  "name": "Guilt Under The Moonlight",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

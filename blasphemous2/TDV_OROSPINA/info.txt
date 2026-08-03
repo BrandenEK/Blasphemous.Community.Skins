@@ -1,6 +1,0 @@
-{
-  "id": "TDV_OROSPINA",
-  "name": "Embroiderer Of Golden Guilt",
-  "author": "ObsessiveBadguy",
-  "version": "1.0.0"
-}

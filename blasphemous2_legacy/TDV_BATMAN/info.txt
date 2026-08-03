@@ -1,0 +1,6 @@
+{
+  "id": "TDV_BATMAN",
+  "name": "Guilt Given The Vengeance Of The Night",
+  "author": "ObsessiveBadguy",
+  "version": "1.0.0"
+}

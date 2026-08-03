@@ -1,0 +1,6 @@
+{
+  "id": "FST_FLAMEPENITENT",
+  "name": "Penitent of the Flame of Anor",
+  "author": "Faust Baudelaire",
+  "version": "1.0.0"
+}
