@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_XB_PATRICK",
+  "name": "Nautical Nonsense",
+  "author": "Xiox-Bramma",
+  "version": "1.0.1"
+}
