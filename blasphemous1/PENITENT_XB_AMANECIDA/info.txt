@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_XB_AMANECIDA",
+  "name": "Penitent of the Dawn",
+  "author": "Xiox-Bramma",
+  "version": "1.0.0"
+}
