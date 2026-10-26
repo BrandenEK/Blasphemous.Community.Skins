@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_XB_NIGHTMARE",
+  "name": "Nightmare of the Silent Hill",
+  "author": "Xiox-Brahma",
+  "version": "1.0.2"
+}
